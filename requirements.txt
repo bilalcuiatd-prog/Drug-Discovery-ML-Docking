@@ -1,0 +1,16 @@
+# Chemical and Data Retrieval
+chembl_webresource_client
+
+# Machine Learning and Bioinformatics
+deepchem
+prody
+scikit-learn
+pandas
+numpy
+
+# Molecular Processing and Docking Preparation
+meeko
+gemmi
+
+# Visualization
+py3Dmol
